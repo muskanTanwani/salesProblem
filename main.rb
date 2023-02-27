@@ -16,4 +16,3 @@ class Sales
   end 
 end
 Sales.new.run
-
